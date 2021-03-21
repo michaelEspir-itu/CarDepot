@@ -1,0 +1,45 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+h1{
+  text-align: center;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  color:floralwhite;
+}
+
+.jumbotron{
+  background: url(image/car.jpeg) no-repeat center;
+}
+
+
+.container {
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  border: none;
+
+}div#root {
+  background: linear-gradient(#e9650d, #f0b093, #f06c14);
+}
+
+.card-body {
+  background-color: #1177ebe5;
+  font-family: "Open Sans", sans-serif;
+  color: #c1edcc;
+}
+
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background: linear-gradient(rgb(235, 97, 235), #1177ebe5);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+h5{
+  text-align: center;
+}
